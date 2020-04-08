@@ -1,0 +1,75 @@
+[en]
+L_MENU_SKILL_BODY:
+Select Skills - Skillpoints available: %i^n
+^n
+^n
+^n
+1.   %s  [ %i / 450 ]^n
+^n
+2.   %s  [ %i / 450 ]^n
+^n
+3.   %s  [ %i / 300 ]^n
+^n
+4.   %s  [ %i / 300 ]^n
+^n
+5.   %s  [ %i / 30 ]^n
+^n
+6.   %s  [ %i / 40 ]^n
+^n
+7.   %s  [ %i / 80 ]^n
+^n
+8.   %s  [ %i / 60 ]^n
+^n
+9.   %s  [ %i / 90 ]^n
+^n
+^n0.   Done
+:
+L_MENU_INCREMENT1:
+Increment your skill with^n
+^n
+^n
+^n
+1.    1  point^n
+^n
+2.    5  points^n
+^n
+3.    10 points^n
+^n
+4.    25 points
+:
+L_MENU_INCREMENT2:
+Increment your skill with^n
+^n
+^n
+^n
+1.    1  point^n
+^n
+2.    5  points^n
+^n
+3.    10 points^n
+^n
+4.    25 points^n
+^n
+5.    50 points
+:
+L_MENU_INCREMENT3:
+Increment your skill with^n
+^n
+^n
+^n
+1.    1  point^n
+^n
+2.    5  points^n
+^n
+3.    10 points^n
+^n
+4.    25 points^n
+^n
+5.    50 points^n
+^n
+6.    100 points
+:
+SKILLMSG1 = %s You spent %i Skillpoints to enhance your %s to Level %i!
+SKILLMSG2 = %s %s is disabled on this map. Please select another skill.
+SKILLMSG3 = %s You have mastered your %s already.
+SKILLMSG4 = %s You need one Skillpoint for enhancing your %s.

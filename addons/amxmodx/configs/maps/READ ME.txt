@@ -1,0 +1,17 @@
+Server manager:
+
+PLEASE use the .ini in this folder to disable xp mod,xp mod will break the atmosphere of the map and is really dont needed because no enemies in the map
+
+The plugin will be disabled in this map and will run again when the map changes.
+
+SO PLEASE use this,you won't  die for disabled xp mod on this map
+
+if you are running scxpm with other name like scxpm_v18.amxx just rename the line
+
+scxpm.amxx disabled
+to
+scxpm_v18.amxx disabled
+
+Thanks.
+
+Streamfox & Maiten
